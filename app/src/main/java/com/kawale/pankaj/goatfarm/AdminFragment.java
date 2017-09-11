@@ -64,7 +64,7 @@ public class AdminFragment extends Fragment implements View.OnClickListener {
         switch (v.getId())
         {
             case R.id.btnAddGoat:
-
+                // add handling here. New fragments can be switched to here
                 break;
         }
     }
